@@ -77,6 +77,3 @@ Date-based filtering for better analysis
 Dashboard Preview
 <img width="1052" height="578" alt="Pizza Sales Dasboard" src="https://github.com/user-attachments/assets/0e902865-cc97-4ced-aa19-9576d5f2857b" />
 
-
-📷 Dashboard Preview
-![Pizza Sales Dashboard](dashboard.png)
